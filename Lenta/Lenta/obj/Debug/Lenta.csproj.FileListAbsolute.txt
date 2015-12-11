@@ -1,0 +1,6 @@
+c:\users\amargo\documents\visual studio 2013\Projects\Lenta\Lenta\bin\Debug\Lenta.exe.config
+c:\users\amargo\documents\visual studio 2013\Projects\Lenta\Lenta\bin\Debug\Lenta.exe
+c:\users\amargo\documents\visual studio 2013\Projects\Lenta\Lenta\bin\Debug\Lenta.pdb
+c:\users\amargo\documents\visual studio 2013\Projects\Lenta\Lenta\obj\Debug\Lenta.csprojResolveAssemblyReference.cache
+c:\users\amargo\documents\visual studio 2013\Projects\Lenta\Lenta\obj\Debug\Lenta.exe
+c:\users\amargo\documents\visual studio 2013\Projects\Lenta\Lenta\obj\Debug\Lenta.pdb
