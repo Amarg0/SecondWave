@@ -1,0 +1,5 @@
+C:\Users\Amargo\Documents\GitHub\New\SecondWave\Exceptions\Exceptions\bin\Release\Exceptions.exe.config
+C:\Users\Amargo\Documents\GitHub\New\SecondWave\Exceptions\Exceptions\bin\Release\Exceptions.exe
+C:\Users\Amargo\Documents\GitHub\New\SecondWave\Exceptions\Exceptions\bin\Release\Exceptions.pdb
+C:\Users\Amargo\Documents\GitHub\New\SecondWave\Exceptions\Exceptions\obj\Release\Exceptions.exe
+C:\Users\Amargo\Documents\GitHub\New\SecondWave\Exceptions\Exceptions\obj\Release\Exceptions.pdb
